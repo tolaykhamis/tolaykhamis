@@ -64,7 +64,7 @@ My background combines:
 ---
 
 ## 📫 Contact
-- LinkedIn: linkedin.com/in/tolay-khamis-185707320
+- LinkedIn: [linkedin.com/in/tolay-khamis-185707320](https://www.linkedin.com/in/tolay-khamis-185707320?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BepoJA1qXSqa%2FoRthCfbXrw%3D%3D)
 - Email: Tolaykh@outlook.com
 ---
 
