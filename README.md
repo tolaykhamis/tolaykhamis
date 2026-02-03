@@ -1,43 +1,75 @@
-# Tolay Khamis 
+<h1 align="center">Hi, I'm Tolay 👋</h1>
 
- Computer Information Systems student at the **University of Jordan**  
- Student at **42 Amman**   
+<p align="center">
+  <b>Computer Information Systems Student</b><br/>
+  University of Jordan • 42 Amman • Competitive Programmer
+</p>
 
----
-
-##  About Me
-I work primarily with algorithms, data structures, and systems concepts, focusing on efficient solutions, clear logic, and disciplined code.
-
-Currently building a strong foundation through:
-- University coursework (CIS)
-- Peer-to-peer, project-based learning at 42
-- Competitive programming contests
-
----
-
-##  Core Skills
-- **Competitive Programming**
-- Algorithms & Data Structures
-- Problem Solving
-- Debugging & Code Optimization
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-## Languages & Tools
+## 👩‍💻 About Me
+I’m a problem-driven programmer focused on **algorithms, data structures, and systems-level thinking**.  
+
+My background combines:
+- Academic foundations in **Computer Information Systems**
+- Project-based, peer-driven learning at **42 Amman**
+- Continuous practice in **competitive programming**
+
+---
+
+##  Core Interests
+- Algorithms & Data Structures  
+- Competitive Programming  
+- Low-level & Systems Concepts  
+- Performance and Code Optimization  
+
+---
+
+##  Technical Skills
+**Languages**
 - C / C++
 - Java
+
+**Tools & Environment**
 - Git & GitHub
 - Linux
+- Command Line
 
 ---
 
-## What I’m Working On
-- Improving contest performance (Codeforces / AtCoder style problems)
-- Systems-level projects from 42
-- Strengthening algorithmic thinking and code efficiency
+##  Competitive Programming
+- Regular practice on algorithmic problems  
+- Strong focus on:
+  - Time & space complexity
+  - Edge cases
+  - Correctness under pressure  
+
+### 🔗 Codeforces
+- Profile: https://codeforces.com/profile/tulay
+- Active problem solving and contest participation
 
 ---
 
-## Contact
-- LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/tolay-khamis-185707320?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBhUu6SsiQ%2Fy0tcD0ZmoKqQ%3D%3D)
+## 📌 Current Focus
+- Strengthening algorithmic thinking
+- Improving contest performance
+- Building solid systems-oriented projects through 42
+
+---
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/tolay-khamis-185707320
 - Email: Tolaykh@outlook.com
+---
+
+<p align="center">
+  <i>Efficiency, clarity, and correctness over everything.</i>
+</p>
+
