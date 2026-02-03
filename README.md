@@ -1,11 +1,11 @@
-# Tolay Khamis 👋
+# Tolay Khamis 
 
-🎓 Computer Information Systems student at the **University of Jordan**  
-🏫 Student at **42 Amman**   
+ Computer Information Systems student at the **University of Jordan**  
+ Student at **42 Amman**   
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 I’m a problem-driven programmer focused on **algorithms, data structures, and low-level systems thinking**.  
 I enjoy solving hard problems under constraints and writing clean, efficient code.
 
@@ -16,7 +16,7 @@ Currently building a strong foundation through:
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 - **Competitive Programming**
 - Algorithms & Data Structures
 - Problem Solving
@@ -24,7 +24,7 @@ Currently building a strong foundation through:
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 - C / C++
 - Java
 - Git & GitHub
@@ -32,7 +32,7 @@ Currently building a strong foundation through:
 
 ---
 
-## 📌 What I’m Working On
+## What I’m Working On
 - Improving contest performance (Codeforces / AtCoder style problems)
 - Systems-level projects from 42
 - Strengthening algorithmic thinking and code efficiency
