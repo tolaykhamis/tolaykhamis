@@ -39,12 +39,6 @@ Currently building a strong foundation through:
 
 ---
 
-## 🏁 Competitive Programming
-- Regular practice with algorithmic problems
-- Focus on time complexity, edge cases, and clean solutions
-
----
-
-## 📫 Contact
+## Contact
 - LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/tolay-khamis-185707320?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBhUu6SsiQ%2Fy0tcD0ZmoKqQ%3D%3D)
 - Email: Tolaykh@outlook.com
