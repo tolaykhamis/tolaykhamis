@@ -68,7 +68,5 @@ My background combines:
 - Email: Tolaykh@outlook.com
 ---
 
-<p align="center">
-  <i>Efficiency, clarity, and correctness over everything.</i>
 </p>
 
