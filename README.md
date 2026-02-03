@@ -6,8 +6,7 @@
 ---
 
 ##  About Me
-I’m a problem-driven programmer focused on **algorithms, data structures, and low-level systems thinking**.  
-I enjoy solving hard problems under constraints and writing clean, efficient code.
+I work primarily with algorithms, data structures, and systems concepts, focusing on efficient solutions, clear logic, and disciplined code.
 
 Currently building a strong foundation through:
 - University coursework (CIS)
