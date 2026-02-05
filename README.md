@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Information Systems Student</b><br/>
-  University of Jordan • 42 Amman • Competitive Programmer
+  University of Jordan • 42 Amman 
 </p>
 
 <p align="center">
