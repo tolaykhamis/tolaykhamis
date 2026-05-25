@@ -1,66 +1,79 @@
-<h1 align="center">Hi, I'm Tolay 👋</h1>
+# Tolay Khamis
 
 <p align="center">
-  <b>Computer Information Systems Student</b><br/>
-  University of Jordan • 42 Amman 
+  Computer Information Systems Student • University of Jordan • 42 Amman
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-I’m a problem-driven programmer focused on **algorithms, data structures, and systems-level thinking**.  
+## About me
 
-My background combines:
-- Academic foundations in **Computer Information Systems**
-- Project-based, peer-driven learning at **42 Amman**
-- Continuous practice in **competitive programming**
+Computer Information Systems student at the University of Jordan and programmer at 42 Amman with strong foundations in algorithms, systems programming, and software engineering.
+
+Experienced in low-level programming, Unix/Linux environments, debugging, and competitive problem solving. Also experienced in Flutter and Firebase-based mobile application development with interest in scalable software systems and AI-integrated applications.
 
 ---
 
-##  Core Interests
-- Algorithms & Data Structures  
-- Competitive Programming  
-- Low-level & Systems Concepts  
-- Performance and Code Optimization  
+## Technical Skills
 
----
-
-##  Technical Skills
-**Languages**
-- C / C++
+### Programming Languages
+- C
+- C++
 - Java
+- Dart
+- Shell Scripting
+- SQL
+- HTML / CSS
+- JavaScript
 
-**Tools & Environment**
+### Frameworks & Technologies
+- Flutter
+- Firebase
+- Gemini API Integration
+
+### Tools & Environment
+- Linux / Unix
 - Git & GitHub
-- Linux
-- Command Line
+- Bash / Command Line
+- Makefile
+- GDB
+- Valgrind
+
+### Computer Science Fundamentals
+- Data Structures & Algorithms
+- Complexity Analysis
+- Systems Programming
+- Memory Management
+- Process Control
+- Signals & IPC
+- Networking Fundamentals
+- Competitive Programming
 
 ---
 
-##  Competitive Programming
-- Regular practice on algorithmic problems  
-- Strong focus on:
-  - Time & space complexity
-  - Edge cases
-  - Correctness under pressure  
+## Competitive Programming
 
-### 🔗 Codeforces
-- Profile: https://codeforces.com/profile/tulay
-- Active problem solving and contest participation
+Actively practicing algorithmic problem solving with focus on:
+- Efficient algorithms
+- Time and space optimization
+- Edge-case handling
+- Writing reliable and maintainable code
+
+### Codeforces
+🔗 https://codeforces.com/profile/tulay
 
 ---
 
-## 📫 Contact
-- LinkedIn: [linkedin.com/in/tolay-khamis-185707320](https://www.linkedin.com/in/tolay-khamis-185707320?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BepoJA1qXSqa%2FoRthCfbXrw%3D%3D)
+## Contact
+
+- LinkedIn: https://linkedin.com/in/tolay-khamis-185707320
 - Email: Tolaykh@outlook.com
----
-
-</p>
-
