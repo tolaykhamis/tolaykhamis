@@ -30,7 +30,6 @@ Experienced in low-level programming, Unix/Linux environments, debugging, and co
 - C++
 - Java
 - Dart
-- Shell Scripting
 - SQL
 - HTML / CSS
 - JavaScript
