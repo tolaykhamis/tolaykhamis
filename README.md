@@ -4,8 +4,8 @@
 
 <div align="center">
 
-I build REST APIs and layered backends in **Java & Spring Boot**, care about clean
-architecture and tests, and enjoy systems-level work in **C** on Linux.
+Computer Information Systems student and backend developer,
+building with Java & Spring Boot and exploring systems programming in C.
 
 </div>
 
